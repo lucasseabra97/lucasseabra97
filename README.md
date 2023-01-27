@@ -24,4 +24,4 @@
 </div>
 
 ## Wacth my contribution graph get eaten by the snake 
-![snake gif](https://github.com/lucasseabra97/lucasseabra97/blob/output/github-contribution-grid-snake.gif)
+https://github.com/lucasseabra97/lucasseabra97/blob/output/github-contribution-grid-snake.gif
